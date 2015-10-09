@@ -13,9 +13,9 @@ I've had a love of computers, coding and tech since my formulative years. I taug
 
 Using the principles of agile software development, I have appraoched every project by implementing TDD/BDD and recently built apps and websites in Ruby, Rails, Sinatra and JavaScript/JQuery, whilst using testing frameworks including Rspec, Jasmine, Capybara, Protractor and Angular. I've learnt the importance of building a Minimum Viable Product, writing clear and concise user stories and constructing cohesive Domain Models. I've become adapt with using Git for version control, and working as part of a team via both pair and mob programming.
 
-Outside of this I am proficient in Photoshop, digital video creation and editing, audio mixing and editing. Many of these aspects have come in extrememly handy whilst working on web design projects. I also own and oversee the popular blogzine style website WarpedFactor.com, A 'geek' themed site which receives approximately 10,000 visitors per day. I've never paid for any external advertising but utilised my skills in using social media sites to my advantage, along with my knowledge of search engine optimisation.
+Outside of this I am proficient in Photoshop, digital video creation and editing, audio mixing and editing. Many of these aspects have come in extrememly handy whilst working on web design projects. I also own and oversee the popular blogzine style website [Warped Factor](https://www.warpedfactor.com), A 'geek' themed site which receives approximately 10,000 visitors per day. I've never paid for any external advertising but utilised my skills in using social media sites to my advantage, along with my knowledge of search engine optimisation.
 
-## Me
+#### Me
 - Outgoing personality, able to relate to all levels. Good sense of humour.
 - Works well as a team or on own initiative.
 - Excellent communication skills.
@@ -24,7 +24,7 @@ Outside of this I am proficient in Photoshop, digital video creation and editing
 - Well organised and willing to take on new responsibilities.
 - Leadership skills.
 
-#### Sample Projects
+## Sample Projects
 
 Will go here
 
